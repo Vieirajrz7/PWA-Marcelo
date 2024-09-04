@@ -1,0 +1,26 @@
+* {
+    text-align: center;
+    font-size: 35px;
+}
+body {
+    background-color: #ccc;
+}
+
+.container {
+    background-color: rgb(93, 143, 214);
+    margin: 150px 400px;
+    padding: 50px 50px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+button {
+    border: none;
+    background-color: azure;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+button:hover {
+    background-color: antiquewhite;
+}
